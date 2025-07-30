@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ `requirements.txt` (basic starter)
+### `requirements.txt` (basic starter)
 
 ```txt
 numpy
