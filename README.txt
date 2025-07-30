@@ -4,10 +4,9 @@ This project implements a deep learning classifier trained on proteomic biomarke
 
 ## 📂 Structure
 
-- `notebooks/` – Jupyter notebook with complete pipeline
-- `src/` – Modular Python scripts for preprocessing, modeling, and evaluation
-- `data/` – Selected protein list and input data
-- `outputs/` – Trained models and plots
+- `Scripts/` – Jupyter notebook with complete pipeline
+- `Data/` – Selected protein list and input data
+- `Output/` – Trained models and plots
 
 ## 📥 Data Access
 
