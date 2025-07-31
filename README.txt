@@ -10,9 +10,8 @@ This project implements a deep learning classifier trained on proteomic biomarke
 
 ## 📥 Data Access
 
-Data for this study is available through the following portals:
-- [Head and Neck 5000](https://headandneck5000.org.uk/information-for-researchers/)
-- [Exeter 10,000](https://exetercrfnihr.org/about/exeter-10000/)
+Test data for this study:
+- Proteomics for the selected proteins given in the the list 
 
 ## 🧪 Setup
 
