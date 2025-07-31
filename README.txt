@@ -11,7 +11,7 @@ This project implements a deep learning classifier trained on proteomic biomarke
 ## 📥 Data Access
 
 Test data for this study:
-- Proteomics for the selected proteins given in the the list 
+- Proteomics for the selected proteins given in the list 
 
 ## 🧪 Setup
 
